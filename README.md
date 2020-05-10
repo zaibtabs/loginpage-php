@@ -1,1 +1,1 @@
-# loginpage-php
+# ElasticBeanstalk-PHP
